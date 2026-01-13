@@ -4,4 +4,4 @@ Programm that use linear regression to find the best thetas that can be used to 
 
 There is a dataset of prices / km to train the model.
 
-the first programm trainModel export the two real thetas in a csv then the programm estimatePrice use the csv to estimate a price. 
+the first programm trainModel.py export the two real thetas in a csv then the programm estimatePrice.py use the csv to estimate a price. 

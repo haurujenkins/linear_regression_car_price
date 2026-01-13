@@ -38,7 +38,7 @@ def normalize_data(data: list):
 
 def train(km_list, price_list):
     learning_rate = 0.1
-    epochs = 2200
+    epochs = 1900
     m = len(km_list)
 
     theta0 = 0.0
